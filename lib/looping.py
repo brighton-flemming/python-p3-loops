@@ -31,5 +31,4 @@ def fizzbuzz():
      else:
        print(num)
      
-
 fizzbuzz()
